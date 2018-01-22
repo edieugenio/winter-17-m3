@@ -2,7 +2,7 @@
 ## A Definition ##
 
 Our friends at the [English Oxford Living Dictionaries](https://en.oxforddictionaries.com/definition/test) describe the noun test as follows:
-** *A procedure intended to establish the quality, performance, or reliability of something, especially before it is taken into widespread use.* **
+***A procedure intended to establish the quality, performance, or reliability of something, especially before it is taken into widespread use.***
 
 This definition captures the essence of why we test and is very relevant to code. It hints at checking to make sure a product works as expected before leaving the factory. In the world of Software Testing, we extend this notion of quality checking as follows:
 
